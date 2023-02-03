@@ -1,4 +1,4 @@
-console.log("Speed#9999 // sixtyseven.lol LLC All rights reserved.");
+console.log("Developed by blizex#0001 and Speed#2222 // discord.gg/dhscript LLC All rights reserved.");
 
 function audioPlay() {
   var audio = document.getElementById("audio");
